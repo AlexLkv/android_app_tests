@@ -1,12 +1,26 @@
-{"question": {
+{"questions" : [ 
+  "question1": {
   "level": "A1",
   "id": "1",
   "right_ans" : "1",
   "question": "Which of the following adjectives means very small?",
-  "answers": {
-    "ans1" : "tiny",
-    "ans2" : "huge",
-    "ans3" : "fast",
-    "ans4" : "happy"
-  }
-}}
+  "answers": [
+    "tiny",
+    "huge",
+    "fast",
+    "happy"
+]
+},
+ "question2": {
+  "level": "A1",
+  "id": "1",
+  "right_ans" : "1",
+  "question": "Which of the following adjectives means very small?",
+  "answers": [
+    "tiny",
+    "huge",
+    "fast",
+    "happy"
+]
+}
+}
