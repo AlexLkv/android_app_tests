@@ -1,26 +1,28 @@
-{"questions" : [ 
-  "question1": {
-  "level": "A1",
-  "id": "1",
-  "right_ans" : "1",
-  "question": "Which of the following adjectives means very small?",
-  "answers": [
-    "tiny",
-    "huge",
-    "fast",
-    "happy"
-]
-},
- "question2": {
-  "level": "A1",
-  "id": "1",
-  "right_ans" : "1",
-  "question": "Which of the following adjectives means very small?",
-  "answers": [
-    "tiny",
-    "huge",
-    "fast",
-    "happy"
-]
-}
+{
+  "questions": [
+    {
+      "level": "A1",
+      "id": "1",
+      "right_ans": "1",
+      "question": "Which of the following adjectives means very small?",
+      "answers": [
+        "tiny",
+        "huge",
+        "fast",
+        "happy"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "2",
+      "right_ans": "3",
+      "question": "What is the capital city of France?",
+      "answers": [
+        "Paris",
+        "London",
+        "Madrid",
+        "Berlin"
+      ]
+    }
+  ]
 }
