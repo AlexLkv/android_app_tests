@@ -2,11 +2,11 @@
   "level": "A1",
   "id": "1",
   "right_ans" : "1",
-  "question": "qwerty?",
+  "question": "Which of the following adjectives means "very small"?",
   "answers": {
-    "ans1" : "1",
-    "ans2" : "2",
-    "ans3" : "3",
-    "ans4" : "4"
+    "ans1" : "tiny",
+    "ans2" : "huge",
+    "ans3" : "fast",
+    "ans4" : "happy"
   }
 }}
