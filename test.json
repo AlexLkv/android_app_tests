@@ -1,28 +1,268 @@
 {
-  "questions": [
-    {
-      "level": "A1",
-      "id": "1",
-      "right_ans": "1",
-      "question": "Which of the following adjectives means very small?",
-      "answers": [
-        "tiny",
-        "huge",
-        "fast",
-        "happy"
-      ]
-    },
-    {
-      "level": "A1",
-      "id": "2",
-      "right_ans": "3",
-      "question": "What is the capital city of France?",
-      "answers": [
-        "Paris",
-        "London",
-        "Madrid",
-        "Berlin"
-      ]
-    }
-  ]
+"questions": [
+ {
+"level": "A1",
+"id": "1",
+"right_ans": "1",
+"question": "Which of the following adjectives means very small?",
+"answers": [
+"tiny",
+"huge",
+"fast",
+"happy"
+]
+},
+{
+"level": "A1",
+"id": "2",
+"right_ans": "3",
+"question": "What is the capital city of France?",
+"answers": [
+"Paris",
+"London",
+"Madrid",
+"Berlin"
+]
+},
+{
+"level": "A2",
+"id": "3",
+"right_ans": "4",
+"question": "What does the word 'delicious' mean?",
+"answers": [
+"sour",
+"bitter",
+"spicy",
+"tasty"
+]
+},
+{
+"level": "A2",
+"id": "4",
+"right_ans": "2",
+"question": "What is the opposite of 'hot'?",
+"answers": [
+"cold",
+"wet",
+"dry",
+"small"
+]
+},
+{
+"level": "B1",
+"id": "5",
+"right_ans": "3",
+"question": "What are some common symptoms of a cold?",
+"answers": [
+"chest pain and shortness of breath",
+"stomach ache and diarrhea",
+"runny nose and sore throat",
+"dizziness and headache"
+]
+},
+{
+"level": "B1",
+"id": "6",
+"right_ans": "1",
+"question": "What is the difference between 'affect' and 'effect'?",
+"answers": [
+"Affect is a verb meaning to influence or have an impact on something, while effect is a noun referring to the result of that influence.",
+"Affect is a noun referring to someone's mood or emotional state, while effect is a verb meaning to bring about or cause something.",
+"Affect and effect are interchangeable and can be used in the same way.",
+"Affect is a verb meaning to bring about or cause something, while effect is a noun referring to someone's mood or emotional state."
+]
+},
+{
+"level": "B2",
+"id": "7",
+"right_ans": "2",
+"question": "What is the function of the pancreas in the human body?",
+"answers": [
+"to regulate blood pressure",
+"to secrete enzymes that aid in digestion and produce hormones that regulate glucose levels in the blood",
+"to transport oxygen throughout the body",
+"to produce and store bile"
+]
+},
+{
+"level": "B2",
+"id": "8",
+"right_ans": "4",
+"question": "Who was Nelson Mandela?",
+"answers": [
+"a famous American astronaut",
+"a French philosopher",
+"an Australian musician",
+"a South African anti-apartheid revolutionary and politician"
+]
+},
+{
+"level": "A1",
+"id": "1",
+"right_ans": "2",
+"question": "What is the opposite of 'slow'?",
+"answers": [
+"fast",
+"quick",
+"big",
+"hot"
+]
+},
+{
+"level": "A1",
+"id": "2",
+"right_ans": "1",
+"question": "Which of the following words is a color?",
+"answers": [
+"blue",
+"desk",
+"book",
+"happy"
+]
+},
+{
+"level": "A1",
+"id": "3",
+"right_ans": "4",
+"question": "What do you say when you want to thank someone?",
+"answers": [
+"hello",
+"goodbye",
+"sorry",
+"thank you"
+]
+},
+{
+"level": "A1",
+"id": "4",
+"right_ans": "3",
+"question": "What is the day after Monday?",
+"answers": [
+"Tuesday",
+"Wednesday",
+"Tuesday",
+"Thursday"
+]
+},
+{
+"level": "A1",
+"id": "5",
+"right_ans": "2",
+"question": "Which of the following animals can fly?",
+"answers": [
+"dog",
+"bird",
+"cat",
+"horse"
+]
+},
+{
+"level": "A1",
+"id": "6",
+"right_ans": "1",
+"question": "What is the verb in the sentence 'I eat breakfast every morning'?",
+"answers": [
+"eat",
+"breakfast",
+"morning",
+"every"
+]
+},
+{
+"level": "A1",
+"id": "7",
+"right_ans": "3",
+"question": "Which of the following places can you buy food and drinks?",
+"answers": [
+"bank",
+"library",
+"cafe",
+"hospital"
+]
+},
+{
+"level": "A1",
+"id": "8",
+"right_ans": "4",
+"question": "What is the opposite of 'happy'?",
+"answers": [
+"sad",
+"angry",
+"excited",
+"unhappy"
+]
+},
+{
+"level": "A1",
+"id": "9",
+"right_ans": "1",
+"question": "Which of the following words means 'a person who flies an airplane'?",
+"answers": [
+"pilot",
+"driver",
+"sailor",
+"chef"
+]
+},
+{
+"level": "A1",
+"id": "10",
+"right_ans": "2",
+"question": "What is the opposite of 'big'?",
+"answers": [
+"small",
+"little",
+"short",
+"tall"
+]
+},
+{
+"level": "A1",
+"id": "11",
+"right_ans": "3",
+"question": "Which of the following objects do you use to write with?",
+"answers": [
+"television",
+"fork",
+"pen",
+"pillow"
+]
+},
+{
+"level": "A1",
+"id": "12",
+"right_ans": "2",
+"question": "Which of the following fruits is red?",
+"answers": [
+"banana",
+"apple",
+"orange",
+"lemon"
+]
+},
+{
+"level": "A1",
+"id": "13",
+"right_ans": "1",
+"question": "What is the verb in the sentence 'She plays tennis every Saturday'?",
+"answers": [
+"plays",
+"tennis",
+"Saturday",
+"every"
+]
+},
+{
+"level": "A1",
+"id": "14",
+"right_ans": "3",
+"question": "Which of the following objects do you use to see things far away?",
+"answers": [
+"microscope",
+"telescope",
+"binoculars",
+"magnifying glass"
+]
+}
+]
 }
