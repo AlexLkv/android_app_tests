@@ -1,0 +1,305 @@
+
+{
+"questions": [
+{
+"level": "B",
+"id": "1",
+"right_ans": "2",
+"question": "Never ______________ business with that company. They are unreliable.",
+"answers": [
+"make",
+"do",
+"run",
+"deal"
+]
+},
+{
+"level": "B",
+"id": "2",
+"right_ans": "2",
+"question": "Can you help me with this suitcase? It doesn’t close.",
+"answers": [
+"It can't close",
+"It won't close",
+"Please try again later",
+"The suitcase is broken"
+]
+},
+{
+"level": "B",
+"id": "3",
+"right_ans": "2",
+"question": "“What did you say?” “ __________________ It wasn’t important.”",
+"answers": [
+"Don't worry.",
+"Never mind.",
+"I don't care.",
+"Not important."
+]
+},
+{
+"level": "B",
+"id": "4",
+"right_ans": "3",
+"question": "No one knows why he resigned, ______________________ ?",
+"answers": [
+"does one",
+"don't they",
+"do they",
+"did he"
+]
+},
+{
+"level": "B",
+"id": "5",
+"right_ans": "2",
+"question": "The red curtains began to _____________ after they had been hanging in the sun for three months.",
+"answers": [
+"dissolve",
+"fade",
+"melt",
+"wither"
+]
+},
+{
+"level": "B",
+"id": "6",
+"right_ans": "1",
+"question": "It is said that _________________ people in the region have lost their homes.",
+"answers": [
+"thousands of",
+"several thousands",
+"almost fifty thousands",
+"millions of"
+]
+},
+{
+"level": "B",
+"id": "7",
+"right_ans": "1",
+"question": "“Would you mind spelling your surname?” “ __________________ .”",
+"answers": [
+"No, not at all.",
+"You're quite right.",
+"No, of course.",
+"Not a problem."
+]
+},
+{
+"level": "B",
+"id": "8",
+"right_ans": "2",
+"question": "Why didn’t she let _____________________ ?",
+"answers": [
+"them go",
+"them to go",
+"to go them",
+"go them"
+]
+},
+{
+"level": "B",
+"id": "9",
+"right_ans": "2",
+"question": "A shop - __________________ is somebody who steals from shops.",
+"answers": [
+"thief",
+"lifter",
+"robber",
+"burglar"
+]
+},
+{
+"level": "B",
+"id": "10",
+"right_ans": "3",
+"question": "She is always so naughty I can’t imagine how anyone puts _______________ with her.",
+"answers": [
+"up",
+"off",
+"-",
+"up with her"
+]
+},
+{
+"level": "B",
+"id": "11",
+"right_ans": "3",
+"question": "He ________________ her of marrying him for his money.",
+"answers": [
+"blamed",
+"warned",
+"accused",
+"reprimanded"
+]
+},
+{
+"level": "B",
+"id": "12",
+"right_ans": "2",
+"question": "The party lasted _______________ all night.",
+"answers": [
+"through",
+"on",
+"for",
+"until"
+]
+},
+{
+"level": "B",
+"id": "13",
+"right_ans": "2",
+"question": "“Why are your hands dirty?” “ I ____________________ my motorbike.”",
+"answers": [
+"repaired",
+"have been repairing",
+"was repairing",
+"am repairing"
+]
+},
+{
+"level": "B",
+"id": "14",
+"right_ans": "3",
+"question": "Watch out! This pile of books ________________________ !",
+"answers": [
+"will fall",
+"will be falling",
+"is going to fall",
+"has fallen"
+]
+},
+{
+"level": "B",
+"id": "15",
+"right_ans": "3",
+"question": "They are hoping to _________________ an in-house magazine next year.",
+"answers": [
+"begin",
+"eject",
+"launch",
+"start"
+]
+},
+{
+"level": "B",
+"id": "16",
+"right_ans": "3",
+"question": "This meat is tough. You have to _______________ it for a long time.",
+"answers": [
+"eat",
+"bite",
+"chew",
+"swallow"
+]
+},
+{
+"level": "B",
+"id": "17",
+"right_ans": "3",
+"question": "How long ____________________ French before she went to France?",
+"answers": [
+"has she been studying",
+"she studied",
+"had she been studying",
+"did she study"
+]
+},
+{
+"level": "B",
+"id": "18",
+"right_ans": "2",
+"question": "They were made ____________________ it.",
+"answers": [
+"do",
+"to do",
+"done",
+"doing"
+]
+},
+{
+"level": "B",
+"id": "19",
+"right_ans": "1",
+"question": "They congratulated her ___________________ doing so well in her exams.",
+"answers": [
+"on",
+"for",
+"of",
+"with"
+]
+},
+{
+"level": "B",
+"id": "20",
+"right_ans": "3",
+"question": "She feels really ________________. She’s been doing this job for too long.",
+"answers": [
+"broke",
+"tied up",
+"burnt out",
+"fed up"
+]
+},
+{
+"level": "B",
+"id": "21",
+"right_ans": "1",
+"question": "“Stop laughing!” “We can’t ___.”",
+"answers": [
+"help it",
+"hold ourselves",
+"do anything against it",
+"stop ourselves"
+]
+},
+{
+"level": "B",
+"id": "22",
+"right_ans": "1",
+"question": " you hurry, you won’t catch the train.",
+"answers": [
+"Unless",
+"Except",
+"If",
+"When"
+]
+},
+{
+"level": "B",
+"id": "23",
+"right_ans": "3",
+"question": "When it’s his _________ to buy a drink he says he doesn’t have enough money to pay.",
+"answers": [
+"time",
+"term",
+"turn",
+"go"
+]
+},
+{
+"level": "B",
+"id": "24",
+"right_ans": "1",
+"question": "I’m afraid I’ll never understand my children. The generation ________________ is unbridgeable.",
+"answers": [
+"gap",
+"conflict",
+"hole",
+"rift"
+]
+},
+{
+"level": "B",
+"id": "25",
+"right_ans": "3",
+"question": "What would you do if you ________________ Susan?",
+"answers": [
+"meet",
+"would meet",
+"met",
+"have met"
+]
+}
+]
+}
