@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "level": "A1",
+      "id": "1",
+      "right_ans": "2",
+      "question": "Pass the salt, will you? _________________ .",
+      "answers": [
+        "Help yourself to it.",
+        "Take this pepper instead.",
+        "Please.",
+        "Here you are."
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "2",
+      "right_ans": "2",
+      "question": "The weather wasn’t _________________ to go to the mountain so they decided to stay at home.",
+      "answers": [
+        "so good",
+        "good enough",
+        "too good",
+        "bad"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "3",
+      "right_ans": "1",
+      "question": "She’s never met _________________ kind-hearted people before.",
+      "answers": [
+        "such",
+        "so",
+        "many",
+        "that"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "4",
+      "right_ans": "1",
+      "question": "Mr Brown _________________ ten cakes a day.",
+      "answers": [
+        "used to eat",
+        "used to eating",
+        "eats now",
+        "uses to eat"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "5",
+      "right_ans": "3",
+      "question": "We are _________________ into our new house next month.",
+      "answers": [
+        "entering",
+        "arriving",
+        "moving",
+        "leaving"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "6",
+      "right_ans": "3",
+      "question": "Tim _________________ every Sunday.",
+      "answers": [
+        "gets riding",
+        "goes on a bike",
+        "goes cycling",
+        "drives"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "7",
+      "right_ans": "1",
+      "question": "I’m sure  the book _________________ into Russian soon.",
+      "answers": [
+        "will be translated",
+        "will translate",
+        "is translating",
+        "was translated"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "8",
+      "right_ans": "3",
+      "question": "They’ve had this car _________________ five years.",
+      "answers": [
+        "from",
+        "for",
+        "since",
+        "about"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "9",
+      "right_ans": "1",
+      "question": "Let me _________________ you the story.",
+      "answers": [
+        "to tell",
+        "tell",
+        "that I tell",
+        "not tell"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "10",
+      "right_ans": "1",
+      "question": "We were all very _________________ when we saw her new boyfriend.",
+      "answers": [
+        "amazed",
+        "amazing",
+        "amaze",
+        "happy"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "11",
+      "right_ans": "3",
+      "question": "Don’t give the waiter a _________________. He wasn’t polite.",
+      "answers": [
+        "bill",
+        "money",
+        "tip",
+        "gift"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "12",
+      "right_ans": "2",
+      "question": "Look at _________________ ! Aren’t we smart?",
+      "answers": [
+        "ourselves",
+        "us",
+        "our",
+        "them"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "13",
+      "right_ans": "3",
+      "question": "Could you buy _________________ cheese on the way home?",
+      "answers": [
+        "a",
+        "any",
+        "some",
+        "no"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "14",
+      "right_ans": "1",
+      "question": "Who _________________ to answer the question?",
+      "answers": [
+        "wants",
+        "does want",
+        "want",
+        "doesn't want"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "15",
+      "right_ans": "2",
+      "question": "She won the world championship _________________ she was just 16.",
+      "answers": [
+        "despite",
+        "although",
+        "in spite",
+        "because"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "16",
+      "right_ans": "1",
+      "question": "“Where are you going on holiday this summer?” “I _________________ go to Italy, I’m not sure yet.”",
+      "answers": [
+        "may",
+        "can",
+        "should",
+        "mustn't"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "17",
+      "right_ans": "1",
+      "question": "She is really _________________ on singing.",
+      "answers": [
+        "keen",
+        "fond",
+        "interested",
+        "bored"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "18",
+      "right_ans": "3",
+      "question": "You _________________ write the essay today. The deadline is March 22nd.",
+      "answers": [
+        "mustn't",
+        "haven’t to",
+        "don’t have to",
+        "needn't"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "19",
+      "right_ans": "1",
+      "question": "This is not my dog. It’s my _________________ ; they bought it last week.",
+      "answers": [
+        "parents’",
+        "parents",
+        "parent’s",
+        "parent"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "20",
+      "right_ans": "3",
+      "question": "“This bag is very heavy.” “_________________ you.”",
+      "answers": [
+        "I’m going to help",
+        "I’m helping",
+        "I will help",
+        "I won't help"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "21",
+      "right_ans": "2",
+      "question": "She is going to a job _________________next week and she hopes to get the job.",
+      "answers": [
+        "search",
+        "interview",
+        "talk",
+        "meeting"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "22",
+      "right_ans": "2",
+      "question": "My friend has lent me some money. I must _________________ by next Saturday.",
+      "answers": [
+        "pay back it",
+        "pay it back",
+        "pay it back him",
+        "not pay it back"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "23",
+      "right_ans": "1",
+      "question": "Don’t buy this dress. It doesn’t _________________ you. It’s too big.",
+      "answers": [
+        "fit",
+        "go with",
+        "suit",
+        "match"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "24",
+      "right_ans": "2",
+      "question": "I didn’t know you wanted _________________Ann to your party.",
+      "answers": [
+        "that I invite",
+        "me to invite",
+        "that I invited",
+        "to invite"
+      ]
+    },
+    {
+      "level": "A1",
+      "id": "25",
+      "right_ans": "3",
+      "question": "Can you play the music _________________ ? I feel like going to bed!",
+      "answers": [
+        "quieter",
+        "quietlier",
+        "more quietly",
+        "loudly"
+      ]
+    }
+  ]
+}
