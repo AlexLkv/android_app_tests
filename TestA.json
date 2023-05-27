@@ -4,7 +4,6 @@
   "b2" : 25,
   "c1" : 33, 
   "c2" : 50,
-  "count_questions" : 25,
   "questions": [
     {
       "level": "A1",
