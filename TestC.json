@@ -1,304 +1,304 @@
 {
-"questions": [
-  {
-    "level": "C",
-    "id": "1",
-    "right_ans": "3",
-    "question": "Are you sure this will do for you? I think I can __________.",
-    "answers": [
-      "have it done",
-      "get it to do",
-      "make it do",
-      "do it do"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "2",
-    "right_ans": "2",
-    "question": "Professor Wilson ____________ to give a paper on world politics.",
-    "answers": [
-      "complied",
-      "accepted",
-      "consented",
-      "submitted"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "3",
-    "right_ans": "1",
-    "question": "When a soldier receives orders, he has to obey them .",
-    "answers": [
-      "prudently",
-      "promptly",
-      "profoundly",
-      "patiently"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "4",
-    "right_ans": "4",
-    "question": " is the act of insulting or showing contempt for God.",
-    "answers": [
-      "delinquency",
-      "piety",
-      "reverence",
-      "blasphemy"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "5",
-    "right_ans": "1",
-    "question": "Because Mr Jones is ____________ , he is not so likely to regard you as a threat.",
-    "answers": [
-      "self-confident",
-      "self-assertive",
-      "self-contained",
-      "self-conscious"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "6",
-    "right_ans": "2",
-    "question": "She tried to ________________ me into going shopping with her, but I refused.",
-    "answers": [
-      "make",
-      "persuade",
-      "convince",
-      "suggest"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "7",
-    "right_ans": "1",
-    "question": "A deluge is the same as a _______________.",
-    "answers": [
-      "downpour",
-      "blizzard",
-      "hailstorm",
-      "meltdown"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "8",
-    "right_ans": "3",
-    "question": "The new manager doesn’t ______________ of smoking in the conference room.",
-    "answers": [
-      "allow",
-      "accept",
-      "approve",
-      "permit"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "9",
-    "right_ans": "4",
-    "question": "He is as good at ______________ others as he is at praising himself.",
-    "answers": [
-      "flaying",
-      "flaunting",
-      "flabbergasting",
-      "flattering"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "10",
-    "right_ans": "2",
-    "question": "These days almost anything _________________.",
-    "answers": [
-      "does",
-      "goes",
-      "makes",
-      "clings"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "11",
-    "right_ans": "4",
-    "question": "Who goes there? Friend or __?",
-    "answers": [
-      "fiend",
-      "enemy",
-      "fob",
-      "foe"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "12",
-    "right_ans": "1",
-    "question": "I work for an insurance company and deal with all the _____________ that come in.",
-    "answers": [
-      "queries",
-      "inquiries",
-      "requests",
-      "questions"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "13",
-    "right_ans": "3",
-    "question": "George is doing an additional _______________ in graphic design.",
-    "answers": [
-      "research",
-      "practice",
-      "course",
-      "study"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "14",
-    "right_ans": "4",
-    "question": "Far- actions have a very wide influence and effect a great number of things.",
-    "answers": [
-      "fetched",
-      "stretching",
-      "sighted",
-      "reaching"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "15",
-    "right_ans": "4",
-    "question": "Thank God you have come _____________! The train leaves in three minutes.",
-    "answers": [
-      "lastly",
-      "finally",
-      "at the end",
-      "at last"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "16",
-    "right_ans": "3",
-    "question": "Mr Jones said the plan had _____________ similarities with the previous one.",
-    "answers": [
-      "superfluous",
-      "superstitious",
-      "superficial",
-      "supercilious"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "17",
-    "right_ans": "1",
-    "question": "The _____________ period of economic growth soon ended.",
-    "answers": [
-      "brief",
-      "concise",
-      "abrupt",
-      "little"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "18",
-    "right_ans": "2",
-    "question": "They were _______________ even to the charm, eloquence and beauty of Miss Finchley.",
-    "answers": [
-      "impertinent",
-      "impervious",
-      "impious",
-      "impeccable"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "19",
-    "right_ans": "1",
-    "question": "All conference participants wore ______________ with their names.",
-    "answers": [
-      "badges",
-      "tags",
-      "labels",
-      "signs"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "20",
-    "right_ans": "2",
-    "question": "Their _____________ made them take a trip round the world.",
-    "answers": [
-      "watchband",
-      "wanderlust",
-      "walloping",
-      "wastage"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "21",
-    "right_ans": "3",
-    "question": "Janet and James had a blazing _______________ last night.",
-    "answers": [
-      "quarrel",
-      "debate",
-      "row",
-      "disagreement"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "22",
-    "right_ans": "2",
-    "question": "When we saw a policeman we cleared _____________ as fast as we could.",
-    "answers": [
-      "out",
-      "off",
-      "away",
-      "up"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "23",
-    "right_ans": "2",
-    "question": "The government should introduce measures aimed to put _____________ , or at least restrict, organized crime.",
-    "answers": [
-      "up",
-      "out",
-      "off",
-      "down"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "24",
-    "right_ans": "1",
-    "question": "It is still uncertain whether or not the place __________ . The decision must be made before May.",
-    "answers": [
-      "will be rebuilt",
-      "would be rebuilt",
-      "is rebuilt",
-      "will have been rebuilt"
-    ]
-  },
-  {
-    "level": "C",
-    "id": "25",
-    "right_ans": "1",
-    "question": "You won’t find a camera with so many functions. It ____________ so heavy as to be hardly usable in field work.",
-    "answers": [
-      "would have to be",
-      "would have been",
-      "were",
-      "had to be"
-]
-}
-]
+  "questions": [
+    {
+      "level": "C",
+      "id": "1",
+      "right_ans": "3",
+      "question": "Are you sure this will do for you? I think I can __________.",
+      "answers": [
+        "have it done",
+        "get it to do",
+        "make it do",
+        "do it do"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "2",
+      "right_ans": "2",
+      "question": "Professor Wilson ____________ to give a paper on world politics.",
+      "answers": [
+        "complied",
+        "accepted",
+        "consented",
+        "submitted"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "3",
+      "right_ans": "1",
+      "question": "When a soldier receives orders, he has to obey them ____________.",
+      "answers": [
+        "prudently",
+        "promptly",
+        "profoundly",
+        "patiently"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "4",
+      "right_ans": "4",
+      "question": "_______________ is the act of insulting or showing contempt for God.",
+      "answers": [
+        "delinquency",
+        "piety",
+        "reverence",
+        "blasphemy"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "5",
+      "right_ans": "1",
+      "question": "Because Mr Jones is ____________, he is not so likely to regard you as a threat.",
+      "answers": [
+        "self-confident",
+        "self-assertive",
+        "self-contained",
+        "self-conscious"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "6",
+      "right_ans": "2",
+      "question": "She tried to ________________ me into going shopping with her, but I refused.",
+      "answers": [
+        "make",
+        "persuade",
+        "convince",
+        "suggest"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "7",
+      "right_ans": "1",
+      "question": "A deluge is the same as a _______________.",
+      "answers": [
+        "downpour",
+        "blizzard",
+        "hailstorm",
+        "meltdown"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "8",
+      "right_ans": "3",
+      "question": "The new manager doesn’t ______________ of smoking in the conference room.",
+      "answers": [
+        "allow",
+        "accept",
+        "approve",
+        "permit"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "9",
+      "right_ans": "4",
+      "question": "He is as good at ______________ others as he is at praising himself.",
+      "answers": [
+        "flaying",
+        "flaunting",
+        "flabbergasting",
+        "flattering"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "10",
+      "right_ans": "2",
+      "question": "These days almost anything ________________.",
+      "answers": [
+        "does",
+        "goes",
+        "makes",
+        "clings"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "11",
+      "right_ans": "4",
+      "question": "Who goes there? Friend or _______________?",
+      "answers": [
+        "fiend",
+        "enemy",
+        "fob",
+        "foe"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "12",
+      "right_ans": "1",
+      "question": "I work for an insurance company and deal with all the _____________ that come in.",
+      "answers": [
+        "queries",
+        "inquiries",
+        "requests",
+        "questions"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "13",
+      "right_ans": "3",
+      "question": "George is doing an additional _______________ in graphic design.",
+      "answers": [
+        "research",
+        "practice",
+        "course",
+        "study"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "14",
+      "right_ans": "4",
+      "question": "Far-_____________ actions have a very wide influence and effect a great number of things.",
+      "answers": [
+        "fetched",
+        "stretching",
+        "sighted",
+        "reaching"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "15",
+      "right_ans": "4",
+      "question": "Thank God you have come _____________! The train leaves in three minutes.",
+      "answers": [
+        "lastly",
+        "finally",
+        "at the end",
+        "at last"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "16",
+      "right_ans": "3",
+      "question": "Mr Jones said the plan had _____________ similarities with the previous one.",
+      "answers": [
+        "superfluous",
+        "superstitious",
+        "superficial",
+        "supercilious"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "17",
+      "right_ans": "1",
+      "question": "The _____________ period of economic growth soon ended.",
+      "answers": [
+        "brief",
+        "concise",
+        "abrupt",
+        "little"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "18",
+      "right_ans": "2",
+      "question": "They were _______________ even to the charm, eloquence and beauty of Miss Finchley.",
+      "answers": [
+        "impertinent",
+        "impervious",
+        "impious",
+        "impeccable"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "19",
+      "right_ans": "1",
+      "question": "All conference participants wore ______________ with their names.",
+      "answers": [
+        "badges",
+        "tags",
+        "labels",
+        "signs"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "20",
+      "right_ans": "2",
+      "question": "Their _____________ made them take a trip round the world.",
+      "answers": [
+        "watchband",
+        "wanderlust",
+        "walloping",
+        "wastage"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "21",
+      "right_ans": "3",
+      "question": "Janet and James had a blazing _______________ last night.",
+      "answers": [
+        "quarrel",
+        "debate",
+        "row",
+        "disagreement"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "22",
+      "right_ans": "1",
+      "question": "When we saw a policeman we cleared _____________ as fast as we could.",
+      "answers": [
+        "out",
+        "off",
+        "away",
+        "up"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "23",
+      "right_ans": "2",
+      "question": "\"The government should introduce measures aimed to put _____________, or at least restrict, organized crime.\"",
+      "answers": [
+        "up",
+        "out",
+        "off",
+        "down"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "24",
+      "right_ans": "1",
+      "question": "It is still uncertain whether or not the place ___________. The decision must be made before May.",
+      "answers": [
+        "will be rebuilt",
+        "would be rebuilt",
+        "is rebuilt",
+        "will have been rebuilt"
+      ]
+    },
+    {
+      "level": "C",
+      "id": "25",
+      "right_ans": "4",
+      "question": "\"You won’t find a camera with so many functions. It ____________ so heavy as to be hardly usable in field work.\"",
+      "answers": [
+        "would have to be",
+        "would have been",
+        "were",
+        "had to be"
+      ]
+    }
+  ]
 }
